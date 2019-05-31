@@ -30,6 +30,11 @@
             <version>2.1.5.RELEASE</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.hs</groupId>
+            <artifactId>api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
     </dependencies>
 
